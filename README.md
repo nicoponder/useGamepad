@@ -1,2 +1,0 @@
-# useGamepad
-Created with CodeSandbox
